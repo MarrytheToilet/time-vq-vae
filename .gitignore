@@ -1,0 +1,10 @@
+# Ignore models directory
+checkpoint/
+pca_sample/
+tsne_sample/
+
+# Python 环境和依赖
+venv/
+*.pyc
+__pycache__/
+*.ipynb_checkpoints
